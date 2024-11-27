@@ -1,0 +1,41 @@
+C:\Users\loren\Desktop\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3.csproj.AssemblyReference.cache
+C:\Users\loren\Desktop\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\MainWindow.g.cs
+C:\Users\loren\Desktop\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\Gui2.g.cs
+C:\Users\loren\Desktop\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\App.g.cs
+C:\Users\loren\Desktop\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3_MarkupCompile.cache
+C:\Users\loren\Desktop\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3_MarkupCompile.lref
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\bin\Debug\cine3.exe
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\bin\Debug\cine3.exe.config
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3.csproj.AssemblyReference.cache
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\Gui2.g.cs
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\MainWindow.g.cs
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\App.g.cs
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3_MarkupCompile.cache
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3_MarkupCompile.lref
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\Gui2.baml
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\MainWindow.baml
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3.g.resources
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3.Properties.Resources.resources
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3.csproj.GenerateResource.cache
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3.csproj.CoreCompileInputs.cache
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3.exe
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\obj\Debug\cine3.pdb
+C:\Users\loren\Desktop\DAM\DAM 2\M7\CINE\CINEMA\cine3\cine3\bin\Debug\cine3.pdb
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\bin\Debug\cine3.exe.config
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\bin\Debug\cine3.exe
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\bin\Debug\cine3.pdb
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\cine3.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\Gui2.g.cs
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\cine3_MarkupCompile.cache
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\cine3_MarkupCompile.lref
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\Gui2.baml
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\cine3.g.resources
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\cine3.Properties.Resources.resources
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\cine3.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\cine3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\cine3.exe
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\cine3.pdb
+C:\Users\admin\Desktop\interfaces\Interfaces\CINEMA\cine3\cine3\obj\Debug\Gui3.g.cs

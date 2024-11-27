@@ -1,0 +1,21 @@
+﻿<Window x:Class="cine3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cine3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Text="Iniciar Sesión" FontSize="24" Margin="10" HorizontalAlignment="Center"/>
+
+        <TextBlock Text="Correo Electrónico:" Margin="10,102,10,0" VerticalAlignment="Top" />
+        <TextBox x:Name="EmailTextBox" Margin="10,64,10,190" Height="30" Text="admin@admin.com" />
+
+        <TextBlock Text="Contraseña:" Margin="10,204,10,0" VerticalAlignment="Top" />
+        <PasswordBox x:Name="PasswordBox" Margin="10,156,10,98" Height="30" />
+
+        <Button x:Name="btIniciarSesion" Content="Iniciar Sesión" Margin="10,200,10,0" Height="30" Click="LoginButton_Click"/>
+    </Grid>
+
+</Window>

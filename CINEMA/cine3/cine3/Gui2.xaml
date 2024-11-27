@@ -1,0 +1,37 @@
+﻿<Window x:Class="cine3.Gui2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:cine3"
+        mc:Ignorable="d"
+        Title="Gui2" Height="450" Width="800">
+    <Grid x:Name="grid">
+        <Label x:Name="titulo" Content="Ventana administrador" HorizontalAlignment="Center" Margin="0,28,0,0" VerticalAlignment="Top" Width="136"/>
+        <Button x:Name="bt_insertarPelicula" Content="Button" HorizontalAlignment="Center" Margin="0,366,0,0" VerticalAlignment="Top" Height="44" Width="136" Click="bt_insertarPelicula_Click" IsEnabled="False"/>
+        <TextBox x:Name="tb_titol" HorizontalAlignment="Left" Margin="33,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="135" Height="21" TextChanged="ValidarCamps"/>
+        <TextBox x:Name="tb_sala" HorizontalAlignment="Left" Margin="243,111,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="133" Height="21" TextChanged="ValidarCamps"/>
+        <DatePicker x:Name="dp_dataInici" HorizontalAlignment="Left" Margin="33,194,0,0" VerticalAlignment="Top" Text="Data Inici" Height="29" Width="162" SelectedDateChanged="ValidarCampsCB"/>
+        <Label x:Name="lb_titol" Content="Títol" HorizontalAlignment="Left" Margin="33,81,0,0" VerticalAlignment="Top" Width="135" Height="30"/>
+        <Label x:Name="lb_sala" Content="Sala" HorizontalAlignment="Left" Margin="243,81,0,0" VerticalAlignment="Top" Width="133" Height="30"/>
+        <Label x:Name="lb_idioma" Content="Idioma" HorizontalAlignment="Left" Margin="436,81,0,0" VerticalAlignment="Top" Width="134" Height="30"/>
+        <Label x:Name="lb_sala_Copiar" Content="Sala" HorizontalAlignment="Left" Margin="243,81,0,0" VerticalAlignment="Top" Width="133" Height="30"/>
+        <Label x:Name="lb_dataInici" Content="Data Inici" HorizontalAlignment="Left" Margin="33,164,0,0" VerticalAlignment="Top" Width="135" Height="30"/>
+        <DatePicker x:Name="dp_dataFinal" HorizontalAlignment="Left" Margin="327,194,0,0" VerticalAlignment="Top" Text="Data Inici" Height="29" Width="162" SelectedDateChanged="ValidarCampsCB"/>
+        <Label x:Name="lb_dataFinal" Content="Data Final" HorizontalAlignment="Left" Margin="327,164,0,0" VerticalAlignment="Top" Width="135" Height="30"/>
+        <Label x:Name="lb_horaInici" Content="Hora Inici" HorizontalAlignment="Left" Margin="33,242,0,0" VerticalAlignment="Top" Width="135" Height="31"/>
+        <TextBox x:Name="tb_duracio" HorizontalAlignment="Left" Margin="341,273,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="134" Height="21"/>
+        <Label x:Name="lb_duració" Content="Duració" HorizontalAlignment="Left" Margin="341,242,0,0" VerticalAlignment="Top" Width="134" Height="31"/>
+        <Label x:Name="lb_genere1" Content="Génere 1" HorizontalAlignment="Left" Margin="636,81,0,0" VerticalAlignment="Top" Width="134" Height="30"/>
+        <Label x:Name="lb_genere2" Content="Génere 2" HorizontalAlignment="Left" Margin="636,164,0,0" VerticalAlignment="Top" Width="134" Height="30"/>
+        <Label x:Name="lb_genere3" Content="Génere 3" HorizontalAlignment="Left" Margin="636,242,0,0" VerticalAlignment="Top" Width="134" Height="31"/>
+        <ComboBox x:Name="cb_genere1" HorizontalAlignment="Left" Margin="636,111,0,0" VerticalAlignment="Top" Width="134" ItemsSource="{Binding Path= GenereList}" SelectionChanged="ValidarCampsCB"  />
+        <ComboBox x:Name="cb_genere2" HorizontalAlignment="Left" Margin="636,194,0,0" VerticalAlignment="Top" Width="134" ItemsSource="{Binding Path= GenereList}" SelectionChanged="ValidarCampsCB"/>
+        <ComboBox x:Name="cb_genere3" HorizontalAlignment="Left" Margin="636,271,0,0" VerticalAlignment="Top" Width="134" ItemsSource="{Binding Path= GenereList}" SelectionChanged="ValidarCampsCB"/>
+        <ComboBox x:Name="cb_idioma" HorizontalAlignment="Left" Margin="436,110,0,0" VerticalAlignment="Top" Width="134" ItemsSource="{Binding Path= LanguageList}" SelectionChanged="ValidarCampsCB" />
+        <Label x:Name="labelDepurar" Content="" HorizontalAlignment="Left" Margin="86,366,0,0" VerticalAlignment="Top" Height="44" Width="137"/>
+        <ComboBox x:Name="cb_hora" HorizontalAlignment="Left" Margin="43,273,0,0" VerticalAlignment="Top" Width="39" ItemsSource="{Binding Path= HourList}" SelectionChanged="ValidarCampsCB"/>
+        <ComboBox x:Name="cb_minuts" HorizontalAlignment="Left" Margin="100,273,0,0" VerticalAlignment="Top" Width="40" ItemsSource="{Binding Path= MinuteList}" SelectionChanged="ValidarCampsCB"/>
+        <Label x:Name="lb_titol_Copiar" Content=":" HorizontalAlignment="Left" Margin="82,269,0,0" VerticalAlignment="Top" Width="18" Height="30"/>
+    </Grid>
+</Window>

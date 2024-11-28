@@ -71,6 +71,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Usr.cs" />
     <Compile Include="Gui3.xaml.cs">
       <DependentUpon>Gui3.xaml</DependentUpon>
     </Compile>

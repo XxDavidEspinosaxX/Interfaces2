@@ -36,7 +36,7 @@
         <Label x:Name="lb_genere1" Content="Gènere 1" HorizontalAlignment="Left" Margin="636,120,0,0" VerticalAlignment="Top" Width="134" Height="30"/>
         <ComboBox x:Name="cb_genere1" HorizontalAlignment="Left" Margin="636,150,0,0" VerticalAlignment="Top" Width="134" ItemsSource="{Binding Path=GenereList}" SelectionChanged="ValidarCampsCB"/>
 
-        <Button x:Name="bt_insertarPelicula" Content="Afegir Pel·lícula" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top" Width="150" Height="40" Click="bt_insertarPelicula_Click" IsEnabled="False"/>
+        <Button x:Name="bt_insertarPelicula" Content="Afegir Pel·lícula" HorizontalAlignment="Center" Margin="0,200,0,0" VerticalAlignment="Top" Width="150" Height="40" IsEnabled="False"/>
 
         <!-- Widgets para consulta y filtrado -->
         <Label Content="Consulta de Pel·lícules" HorizontalAlignment="Center" VerticalAlignment="Top" FontSize="16" Margin="0,250,0,0"/>

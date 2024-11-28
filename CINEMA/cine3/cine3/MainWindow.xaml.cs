@@ -93,13 +93,19 @@ namespace cine3
 
                 if (userExists)
                 {
-                    MessageBox.Show("L'usuari ja existeix", "Informació", MessageBoxButton.OK, MessageBoxImage.Information);
+                    Gui3 gui3 = new Gui3();
+                    gui3.Show();
+                    this.Hide();
                 }
                 else
                 {
                     // Afegir l'usuari només si les dades són vàlides i no existeix al fitxer
                     File.AppendAllText(filePath, email + ":" + password + Environment.NewLine);
                     MessageBox.Show("Usuari registrat correctament", "Informació", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                    Gui3 gui3 = new Gui3();
+                    gui3.Show();
+                    this.Hide();
                 }
             }
         }

@@ -48,3 +48,13 @@ C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\obj\Debug
 C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\obj\Debug\cine3_MarkupCompile.lref
 C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\obj\Debug\cine3.exe
 C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\obj\Debug\cine3.pdb
+C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\bin\Debug\cine3.exe.config
+C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\bin\Debug\cine3.exe
+C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\bin\Debug\cine3.pdb
+C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\obj\Debug\Gui2.baml
+C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\obj\Debug\Gui3.baml
+C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\obj\Debug\MainWindow.baml
+C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\obj\Debug\cine3.g.resources
+C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\obj\Debug\cine3.Properties.Resources.resources
+C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\obj\Debug\cine3.csproj.GenerateResource.cache
+C:\Users\loren\Desktop\DAM\DAM 2\M7\UF1\Interfaces2\CINEMA\cine3\cine3\obj\Debug\cine3.csproj.CoreCompileInputs.cache

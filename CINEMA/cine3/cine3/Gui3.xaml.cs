@@ -18,15 +18,13 @@ namespace cine3
 
             // Inicializar las listas de géneros e idiomas
             GenereList = new List<string> { "Acció", "Comèdia", "Drama", "Terror", "Ciencia Ficció" };
-            LanguageList = new List<string> { "VO", "Castellà", "Anglès" };
+            LanguageList = new List<string> { "VO", "Castellà" };
+
 
             // Lista de ejemplo de películas
             Peliculas = new List<Pelicula>
             {
-                new Pelicula("Pelicula 1", "Sala 1", new List<string> { "VO" }, new List<string> { "Acció" }, new DateTime(2024, 11, 27), new DateTime(2024, 11, 27), new List<string> { "12" }, new List<string> { "00" }, "120 min"),
-                new Pelicula("Pelicula 2", "Sala 2", new List<string> { "Castellà" }, new List<string> { "Drama" }, new DateTime(2024, 11, 27), new DateTime(2024, 11, 27), new List<string> { "14" }, new List<string> { "30" }, "90 min"),
-                new Pelicula("Pelicula 3", "Sala 3", new List<string> { "VO" }, new List<string> { "Terror" }, new DateTime(2024, 11, 27), new DateTime(2024, 11, 27), new List<string> { "16" }, new List<string> { "00" }, "100 min")
-            };
+               };
 
             // Establecer el contexto de datos
             this.DataContext = this;
@@ -56,32 +54,6 @@ namespace cine3
         {
             listBoxPeliculas.ItemsSource = Peliculas;
         }
-        private void UpdateButton()
-        {
-            bool titolComplet = !string.IsNullOrEmpty(tb_titol.Text);
-            bool salaComplet = !string.IsNullOrEmpty(tb_sala.Text);
-            bool duracioComplet = !string.IsNullOrEmpty(tb_duracio.Text) && int.TryParse(tb_duracio.Text, out int duracio) && duracio > 0;
-            bool idiomaComplet = !string.IsNullOrWhiteSpace(cb_idioma.Text);
-            bool horaComplet = !string.IsNullOrWhiteSpace(cb_hora.Text);
-            bool minutsComplet = !string.IsNullOrWhiteSpace(cb_minuts.Text);
-            bool genereSeleccionat = cb_genere1.SelectedItem != null;
-            bool dataIniciComplet = dp_dataInici.SelectedDate != null;
-            bool dataFinalComplet = dp_dataFinal.SelectedDate != null;
-            bool datesCorrectes = dp_dataInici.SelectedDate <= dp_dataFinal.SelectedDate;
-
-            // Actualitzar l'estat del botó amb totes les condicions
-            bt_insertarPelicula.IsEnabled = titolComplet && salaComplet && duracioComplet && idiomaComplet && horaComplet && minutsComplet && genereSeleccionat && dataIniciComplet && dataFinalComplet && datesCorrectes;
-        }
-        // Per validació dels camps tipus Text
-        private void ValidarCamps(object sender, TextChangedEventArgs e)
-        {
-            UpdateButton();
-        }
-
-        // Per validació dels camps tipus Selectors
-        private void ValidarCampsCB(object sender, SelectionChangedEventArgs e)
-        {
-            UpdateButton();
-        }
     }
+
 }

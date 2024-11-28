@@ -1,5 +1,0 @@
-user@user.com:1234
-puta@puta.com:puta
-pato@pato.com:1234
-isma@tonto.com:puti
-pedro@pedro.com:pedro

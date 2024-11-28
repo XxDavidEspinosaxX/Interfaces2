@@ -10,7 +10,7 @@
         <TextBlock Text="Iniciar Sesión" FontSize="24" Margin="10" HorizontalAlignment="Center"/>
 
         <TextBlock Text="Correo Electrónico:" Margin="10,102,10,0" VerticalAlignment="Top" />
-        <TextBox x:Name="EmailTextBox" Margin="10,64,10,190" Height="30" Text="admin@admin.com" />
+        <TextBox x:Name="EmailTextBox" Margin="10,64,10,190" Height="30" />
 
         <TextBlock Text="Contraseña:" Margin="10,204,10,0" VerticalAlignment="Top" />
         <PasswordBox x:Name="PasswordBox" Margin="10,156,10,98" Height="30" />

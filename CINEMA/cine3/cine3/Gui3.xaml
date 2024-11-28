@@ -54,6 +54,6 @@
         <ComboBox x:Name="cb_filtrarIdioma" HorizontalAlignment="Left" Margin="710,500,0,0" VerticalAlignment="Top" Width="150" ItemsSource="{Binding Path=LanguageList}" SelectionChanged="AplicarFiltros"/>
 
         <!-- Botón para mostrar todas las películas -->
-        <Button Content="Mostrar Tot" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,550,0,0" Width="150" Click="MostrarTodasPeliculas_Click"/>
+        <Button x:Name="bt_mostrarTot" Content="Mostrar Tot" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,550,0,0" Width="150" Click="MostrarTodasPeliculas_Click"/>
     </Grid>
 </Window>

@@ -1,10 +1,10 @@
-Títol: fdfg
-Sala: 12
-Idioma: VO
-Hora: 05:15
-Duració: 12
-Géneres: Acció, , 
-Data Inici: 2024-11-07
-Data Final: 2024-11-14
+Títol: asdsaf
+Sala: s213
+Idioma: Castellà
+Hora: 02:45
+Duració: 123
+Géneres: Comèdia, , 
+Data Inici: 2024-11-15
+Data Final: 2024-11-23
 
 ---------------------

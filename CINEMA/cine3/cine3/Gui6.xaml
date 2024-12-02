@@ -7,6 +7,15 @@
         mc:Ignorable="d"
         Title="Gui6" Height="450" Width="800">
     <Grid>
-        
+        <Label x:Name="lbInfo" Content="INFORMACIÓ RELLEVANT" HorizontalAlignment="Center" Height="46" Margin="0,37,0,0" VerticalAlignment="Top" Width="363" FontFamily="Bahnschrift" FontSize="30" Opacity="0.8">
+            <Label.Effect>
+                <DropShadowEffect/>
+            </Label.Effect>
+        </Label>
+        <Label x:Name="lbCreadors" Content="Creadors:" HorizontalAlignment="Left" Height="36" Margin="266,135,0,0" VerticalAlignment="Top" Width="96" FontSize="20"/>
+        <Label Content="Ismael Corzo&#xD;&#xA;David Espinosa&#xA;Lorena Muñoz" HorizontalAlignment="Left" Height="92" Margin="400,137,0,0" VerticalAlignment="Top" Width="203" FontSize="20"/>
+        <Label x:Name="lbCreadors_Copiar" Content="Versió:" HorizontalAlignment="Left" Height="36" Margin="266,255,0,0" VerticalAlignment="Top" Width="96" FontSize="20"/>
+        <Label Content="1.0" HorizontalAlignment="Left" Height="92" Margin="400,255,0,0" VerticalAlignment="Top" Width="203" FontSize="20"/>
+
     </Grid>
 </Window>

@@ -117,5 +117,12 @@ namespace cine3
             string pattern = @"^[^@\s]+@[^@\s]+\.[^@\s]+$";
             return Regex.IsMatch(email, pattern);
         }
+
+        private void btInfoPrograma_Click(object sender, RoutedEventArgs e)
+        {
+            Gui6 gui6 = new Gui6();
+            gui6.Show();
+            this.Hide();
+        }
     }
 }

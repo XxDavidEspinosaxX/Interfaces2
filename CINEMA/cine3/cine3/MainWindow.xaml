@@ -15,7 +15,8 @@
         <TextBlock Text="Contrasenya:" Margin="10,204,10,0" VerticalAlignment="Top" />
         <PasswordBox x:Name="tb_password" Margin="10,156,10,98" Height="30" />
 
-        <Button x:Name="btIniciarSesion" Content="Iniciar Sessió" Margin="10,200,10,0" Height="30" Click="LoginButton_Click"/>
+        <Button x:Name="btIniciarSesion" Content="Iniciar Sessió" Margin="10,250,10,120" Height="30" Click="LoginButton_Click"/>
+        <Button x:Name="btInfoPrograma" Content="Informació del programa" Margin="10,315,10,67" Height="30" Click="btInfoPrograma_Click"/>
     </Grid>
 
 </Window>

@@ -18,6 +18,7 @@ namespace cine3
     public partial class MainWindow : Window
     {
         private Logica logica;
+        public Usr userdelBinding;
 
         private string correu { get; set; }
 
@@ -38,8 +39,8 @@ namespace cine3
 
         private void LoginButton_Click(object sender, RoutedEventArgs e)
         {
-            string email = EmailTextBox.Text;
-            string password = PasswordBox.Password;
+            string email = tb_email.Text;
+            string password = tb_password.Password;
 
             // Comprovar si el correu és vàlid
             if (!IsValidEmail(email))

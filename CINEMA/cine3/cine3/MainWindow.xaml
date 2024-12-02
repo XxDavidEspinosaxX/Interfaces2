@@ -7,15 +7,15 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock Text="Iniciar Sesión" FontSize="24" Margin="10" HorizontalAlignment="Center"/>
+        <TextBlock Text="Benvingut al Cinema Gavà" FontSize="24" Margin="10" HorizontalAlignment="Center"/>
 
-        <TextBlock Text="Correo Electrónico:" Margin="10,102,10,0" VerticalAlignment="Top" />
-        <TextBox x:Name="EmailTextBox" Margin="10,64,10,190" Height="30" />
+        <TextBlock Text="Correu Electrònic:" Margin="10,102,10,0" VerticalAlignment="Top" />
+        <TextBox x:Name="tb_email"  Margin="10,64,10,190" Height="30" />
 
-        <TextBlock Text="Contraseña:" Margin="10,204,10,0" VerticalAlignment="Top" />
-        <PasswordBox x:Name="PasswordBox" Margin="10,156,10,98" Height="30" />
+        <TextBlock Text="Contrasenya:" Margin="10,204,10,0" VerticalAlignment="Top" />
+        <PasswordBox x:Name="tb_password" Margin="10,156,10,98" Height="30" />
 
-        <Button x:Name="btIniciarSesion" Content="Iniciar Sesión" Margin="10,200,10,0" Height="30" Click="LoginButton_Click"/>
+        <Button x:Name="btIniciarSesion" Content="Iniciar Sessió" Margin="10,200,10,0" Height="30" Click="LoginButton_Click"/>
     </Grid>
 
 </Window>

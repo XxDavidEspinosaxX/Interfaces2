@@ -1,8 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\",
+  "WorkspaceRootPath": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\gui6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|solutionrelative:cine3\\gui6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -32,6 +33,45 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\usr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|c:\\users\\despi\\source\\repos\\interfaces2\\cinema\\cine3\\cine3\\gui3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|solutionrelative:cine3\\gui3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|solutionrelative:cine3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|solutionrelative:cine3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|c:\\users\\despi\\source\\repos\\interfaces2\\cinema\\cine3\\cine3\\gui3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|solutionrelative:cine3\\gui3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|c:\\users\\despi\\source\\repos\\interfaces2\\cinema\\cine3\\cine3\\gui2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|solutionrelative:cine3\\gui2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\gui5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|solutionrelative:cine3\\gui5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\gui6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|solutionrelative:cine3\\gui6.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\gui5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|solutionrelative:cine3\\gui5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\gui2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|solutionrelative:cine3\\gui2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\usr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 58cba80c1d795dbe14aef0a81711101c2273bade
       "RelativeMoniker": "D:0:0:{7751C258-4792-4B1F-BF7C-6B41DEAF00DE}|cine3\\cine3.csproj|solutionrelative:cine3\\usr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -46,14 +86,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
+=======
+          "SelectedChildIndex": 2,
+>>>>>>> 58cba80c1d795dbe14aef0a81711101c2273bade
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\App.xaml",
@@ -62,15 +111,54 @@
               "RelativeToolTip": "cine3\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-02T15:57:11.714Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "Gui3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\despi\\Source\\Repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui3.xaml.cs",
+              "RelativeDocumentMoniker": "cine3\\Gui3.xaml.cs",
+              "ToolTip": "C:\\Users\\despi\\Source\\Repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui3.xaml.cs",
+              "RelativeToolTip": "cine3\\Gui3.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAQwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:02:54.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gui3.xaml",
+              "DocumentMoniker": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui3.xaml",
+              "RelativeDocumentMoniker": "cine3\\Gui3.xaml",
+              "ToolTip": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui3.xaml",
+              "RelativeToolTip": "cine3\\Gui3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T18:43:05.552Z",
+>>>>>>> 58cba80c1d795dbe14aef0a81711101c2273bade
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< HEAD
+=======
+              "Title": "Gui2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui2.xaml.cs",
+              "RelativeDocumentMoniker": "cine3\\Gui2.xaml.cs",
+              "ToolTip": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui2.xaml.cs",
+              "RelativeToolTip": "cine3\\Gui2.xaml.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T16:01:44.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+>>>>>>> 58cba80c1d795dbe14aef0a81711101c2273bade
               "Title": "Gui5.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui5.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui5.xaml.cs",
               "RelativeDocumentMoniker": "cine3\\Gui5.xaml.cs",
-              "ToolTip": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui5.xaml.cs",
+              "ToolTip": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui5.xaml.cs",
               "RelativeToolTip": "cine3\\Gui5.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,30 +166,61 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 6,
+>>>>>>> 58cba80c1d795dbe14aef0a81711101c2273bade
               "Title": "Gui6.xaml",
-              "DocumentMoniker": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui6.xaml",
+              "DocumentMoniker": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui6.xaml",
               "RelativeDocumentMoniker": "cine3\\Gui6.xaml",
+<<<<<<< HEAD
               "ToolTip": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui6.xaml*",
               "RelativeToolTip": "cine3\\Gui6.xaml*",
+=======
+              "ToolTip": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui6.xaml",
+              "RelativeToolTip": "cine3\\Gui6.xaml",
+>>>>>>> 58cba80c1d795dbe14aef0a81711101c2273bade
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-02T15:13:29.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "Gui3.xaml",
               "DocumentMoniker": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui3.xaml",
               "RelativeDocumentMoniker": "cine3\\Gui3.xaml",
               "ToolTip": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui3.xaml",
               "RelativeToolTip": "cine3\\Gui3.xaml",
+=======
+              "DocumentIndex": 7,
+              "Title": "Gui5.xaml",
+              "DocumentMoniker": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui5.xaml",
+              "RelativeDocumentMoniker": "cine3\\Gui5.xaml",
+              "ToolTip": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui5.xaml",
+              "RelativeToolTip": "cine3\\Gui5.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-01T18:43:05.552Z",
+              "WhenOpened": "2024-12-02T15:13:13.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Gui2.xaml",
+              "DocumentMoniker": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui2.xaml",
+              "RelativeDocumentMoniker": "cine3\\Gui2.xaml",
+              "ToolTip": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui2.xaml",
+              "RelativeToolTip": "cine3\\Gui2.xaml",
+>>>>>>> 58cba80c1d795dbe14aef0a81711101c2273bade
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T18:42:52.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 6,
               "Title": "Gui5.xaml",
               "DocumentMoniker": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\Gui5.xaml",
@@ -125,22 +244,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
+=======
+              "DocumentIndex": 9,
+>>>>>>> 58cba80c1d795dbe14aef0a81711101c2273bade
               "Title": "Usr.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\Usr.cs",
+              "DocumentMoniker": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Usr.cs",
               "RelativeDocumentMoniker": "cine3\\Usr.cs",
-              "ToolTip": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\Usr.cs",
+              "ToolTip": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\Usr.cs",
               "RelativeToolTip": "cine3\\Usr.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
-              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAALQSURBVDhP7ZNNSBtBFMff7maTmGSNSUyseKgS2GhoRSGVUhovBttSPBQ8iR9QoV7FSOtFMPSkIBGhIL1ZSqVgD1orDfHQekvYQ02irVFbFWvduNGkSY352N3upNtC8dBCoSd/MLPMvD9v3vzfDpzzzxDyFyJsRNdyt8VEXiUp0klS\u002Bht6qu5OHdXU1aRcm13LIE0ikTDobukMB5cPlDFfLDs4OGjmHFzpafMpHC4e5pAGRxOikC30YQWMEUiBKSgKDA88gxM4owCFV5aAtOdVikqGJ3hvOp0uzwrZ1wIIDF/g\u002B2QJYGgK7YaG/Z/8nSvsCq1SqMButoOW1AIv8pDjcws9l3q6UbLJ4OTN5d3lip3kDivpQg0XGpybR5vq48xxFMfxp9H\u002B6MNihcEvwSsfEx9pQRSgtaY1XV9RP95Y0eihjbTHorHM6PX6vBQLV1KVSbPWDBiGJUsUJaFaU22eUlJSVdi\u002BNLZQriLtM\u002B3zHc87RI/fw6ZSqSeSV0Y59Bvxr/H5sbdjIu2lX8bSscp4Mv6590WvaPPaRmTJDw834hugIlRgKDEEKYrqLisrOypGZURRxKWDLNw3Tn2SO0Fb6qnAlIVNs0SWz4IIos4\u002Bbi8WUUyowCXrpUHiJFqe4WcDJgITztn3s5AX8ten3037uua6ypl9Bnl9DzUKaYsJq6gqyBQyEIqF0PIMWq02KZXxoI1uCzVfbAYCI8JWk/X\u002B0LWhpM1kQx4uCLzwCGkVaHLVuGD1cBVdnXa/co\u002B4ql2gU\u002BuAO\u002BGATbGog88kmT\u002BeiJeH2bCNwImor8c3zyU48\u002BLWIiUd8GZ9YD2IchV/m8B2YNi36euMxCK0UWMEqXugITXoaiB5tDDgHGhDur\u002BhmBCxtL7k3k5su\u002Bc\u002BzMFeag\u002BkKsBqsEJ1afXS6O3Rbln2R369FLWgfgx5cGB5zCH55eB53oGJmCNH5PplyTn/BYDvQ\u002BM1Z9USxwoAAAAASUVORK5CYII=",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJZSURBVDhP3ZDPT9NwGMbfb/ttGdvoKjBHIjE6piRAWGbCFOMPEjMS5DKJi8FwIXIxHo3gzXgRz3oi80jCwcNOHCYhYx5IHAkkZCTiJrji6jbaQgcdXVtaV/XoP6DPm7x5kvd5D58H/n2R9kpZKTweG2fdd9wt2oDm8t3zuYLRYNPElYn6ysoKGowNnlFvq82xJzF97tVca\u002BlqyeHt9eqFdMEkLMsi6DwdrhrVhAHGprvFvenBnk3Wzb4vXy\u002B37wq7l\u002BpWPaFreoI/5MNiXfxo\u002B1JrKQwvgMDJrSRbVIoza/zagNfppSZDk58dpMOoGTUhcDbQrOna0\u002BXd5T5O5iB3kJs2TOPCXnXPZ5rmw0BrIIuXiktYOVHOkwQJI10jayQmn1vIqgpV4cSP/GULW/Phc\u002BFbOSkHBEnMj10eu1k\u002BKu8rmvKhQ\u002Bqo4dWvq\u002BBxeiDUEdpRLfVR5GJkGyFk2t3YeLzAVxia0WmSRm3NbZV2Z7tJYUo3wTxMQ9rEdpBEJBCIMPJCXhzuHv71bEuWZVY5VeIL2YWubWkbDMN418BgBUVwN87PepieLA76gqA3hjvkHLIq9yWzSQkogIpcOdk42Ch0OjtnIoHIjKiKCAGamwpNTcc34vKOuPPWe\u002BSt4mh31MjLeS7zPXNDO9XecMecTpEUKLryZf3H\u002BuOhwaEMJ3HTDGZgtHO00OvrLTS8riKVS79MG8jmXMwuXiseF1\u002BnvqW6\u002BSMemCYG/Kx/y0W5Hszend3/DfR3EXZhrj5Xhm1ho3AM/VJN6q9ptX6lSblPf6LFP7n/VwA/AV4KIlDhpvjTAAAAAElFTkSuQmCC",
               "WhenOpened": "2024-12-01T18:09:14.73Z"
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
+=======
+              "DocumentIndex": 2,
+>>>>>>> 58cba80c1d795dbe14aef0a81711101c2273bade
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\MainWindow.xaml",
               "RelativeDocumentMoniker": "cine3\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\MainWindow.xaml",
               "RelativeToolTip": "cine3\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-12-01T18:08:48.922Z",
@@ -148,13 +274,21 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
+=======
+              "DocumentIndex": 1,
+>>>>>>> 58cba80c1d795dbe14aef0a81711101c2273bade
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "cine3\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\loren\\Desktop\\DAM\\DAM 2\\M7\\UF1\\Interfaces2\\CINEMA\\cine3\\cine3\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\despi\\source\\repos\\Interfaces2\\CINEMA\\cine3\\cine3\\MainWindow.xaml.cs",
               "RelativeToolTip": "cine3\\MainWindow.xaml.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAGIAAAAAAAAAAAAmwHsAAAAQAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwD8AAAAAAAAAAAAAAA==",
+>>>>>>> 58cba80c1d795dbe14aef0a81711101c2273bade
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T18:08:43.478Z",
               "EditorCaption": ""

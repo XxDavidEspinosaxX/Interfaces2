@@ -33,5 +33,6 @@
 
         <!-- Botón para mostrar todas las películas -->
         <Button x:Name="bt_mostrarTot" Content="Mostrar Tot" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="417,261,0,0" Width="150" Click="MostrarTodasPeliculas_Click" Grid.Row="1"/>
+        <Button x:Name="bt_iragui5" Content="Seleccionar butaca" HorizontalAlignment="Left" Margin="431,306,0,0" Grid.Row="1" VerticalAlignment="Top" Height="20" Width="122" Click="Button_Click"/>
     </Grid>
 </Window>

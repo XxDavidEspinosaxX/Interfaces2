@@ -43,3 +43,7 @@ C:\Users\despi\Source\Repos\Interfaces2\CINEMA\cine3\cine3\obj\Debug\cine3.cspro
 C:\Users\despi\Source\Repos\Interfaces2\CINEMA\cine3\cine3\obj\Debug\cine3.exe
 C:\Users\despi\Source\Repos\Interfaces2\CINEMA\cine3\cine3\obj\Debug\cine3.pdb
 >>>>>>> aaeca70d9469a82cf81df8622e867efd560c568d
+C:\Users\despi\Source\Repos\Interfaces2\CINEMA\cine3\cine3\obj\Debug\Gui5.baml
+C:\Users\despi\Source\Repos\Interfaces2\CINEMA\cine3\cine3\obj\Debug\Gui5.g.cs
+C:\Users\despi\Source\Repos\Interfaces2\CINEMA\cine3\cine3\obj\Debug\Gui6.g.cs
+C:\Users\despi\Source\Repos\Interfaces2\CINEMA\cine3\cine3\obj\Debug\Gui6.baml

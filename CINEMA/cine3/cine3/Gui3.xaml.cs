@@ -92,5 +92,12 @@ namespace cine3
         {
             listBoxPeliculas.ItemsSource = Peliculas;
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            Gui5 gui5 = new Gui5();
+            gui5.Show();
+            this.Hide();
+        }
     }
 }

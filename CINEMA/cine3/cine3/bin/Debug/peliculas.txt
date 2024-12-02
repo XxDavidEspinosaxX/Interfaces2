@@ -8,3 +8,13 @@ Data Inici: 2024-11-15
 Data Final: 2024-11-23
 
 ---------------------
+Títol: 123
+Sala: 1
+Idioma: VO
+Hora: 03:45
+Duració: 12
+Géneres: Ciencia Ficció, , 
+Data Inici: 2024-12-12
+Data Final: 2024-12-15
+
+---------------------

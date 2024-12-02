@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Linq;
 
 namespace cine3
 {
@@ -14,8 +16,14 @@ namespace cine3
         public List<string> HourList { get; set; }
         public List<string> MinuteList { get; set; }
         public string Duracion { get; set; }
+        public string Titulo { get; internal set; }
 
-        // Constructor
+        // Constructor por defecto
+        public Pelicula()
+        {
+        }
+
+        // Constructor parametrizado
         public Pelicula(string titol, string sala, List<string> idioma, List<string> genero, DateTime dataInici, DateTime dataFinal, List<string> hourList, List<string> minuteList, string duracion)
         {
             this.Titol = titol;
@@ -28,5 +36,10 @@ namespace cine3
             this.MinuteList = minuteList;
             this.Duracion = duracion;
         }
+
+       
+
     }
+
 }
+
